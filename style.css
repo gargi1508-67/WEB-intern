@@ -8,14 +8,14 @@
 }
 
 body {
-    background-color: rgb(218, 242, 250);
+    /* background-color: rgb(218, 242, 250); */
     background-image: url("web.png");
     
     background-repeat: no-repeat;
    
-  
-  
-    background-size: 70%;
+background-position: center;  
+background-position-y: -5000%;  
+    background-size: 50%;
 
     
    
